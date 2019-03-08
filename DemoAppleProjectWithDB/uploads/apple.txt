@@ -1,0 +1,4 @@
+id=1
+Filename=apple.txt
+size=10KB
+FileType=text
